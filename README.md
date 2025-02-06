@@ -46,7 +46,7 @@ To adapt the form to your website, you may need to modify the following elements
   - If you want to limit the country options, remove or add `<option>` elements in the `<select>` dropdown.  
 
 ## Preview  
-![Contact Form Preview](images/screenshot.png)
+![Contact Form Preview](Simple-French-Contact-Form/images/screenshot.png)
 
 ## Author  
 
